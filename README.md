@@ -5,8 +5,10 @@ A project dedicated to finding out more about myself through data from Fitbit, M
 * ~~Configure Fitbit app and authentication process, get keys and tokens~~
 * ~~Decide what data would be good to use~~
 * ~~Analyze Fitbit JSON structures for each endpoint~~
-* ~~Get all historical data required, and save for analysis~~
-* Design a plan to transform data into a structure more suitable for analysis.
+* ~~Get all historical data required and save for analysis~~
+* ~~Design a plan to transform data into a structure more suitable for analysis.~~
+* Convert to tables
+* Rid tables of redundant data, and create any necessary changes
 
 
 # Progress
@@ -17,4 +19,7 @@ A project dedicated to finding out more about myself through data from Fitbit, M
 ## 8/6/24
 * Designed API calls, creating scripts to gather all historical data
 * Acquired all data listed out previously, and completed raw data gathering. Moving onto data wrangling.
+
+## 8/7/24
+* Created a list of columns wanted and notes on how tables would look from JSON data.
  
