@@ -2,12 +2,15 @@
 A project dedicated to finding out more about myself through data from Fitbit, MyFitnessPal, and self-surveyed data
 
 # To-do List:
+## Data Gathering
 * ~~Configure Fitbit app and authentication process, get keys and tokens~~
 * ~~Decide what data would be good to use~~
 * ~~Analyze Fitbit JSON structures for each endpoint~~
 * ~~Get all historical data required and save for analysis~~
+
+## Data Wrangling
 * ~~Design a plan to transform data into a structure more suitable for analysis.~~
-* Convert to tables
+* ~~Convert to tables~~
 * Rid tables of redundant data, and create any necessary changes
 
 
@@ -22,4 +25,8 @@ A project dedicated to finding out more about myself through data from Fitbit, M
 
 ## 8/7/24
 * Created a list of columns wanted and notes on how tables would look from JSON data.
+* Created tables from JSON data
+
+## 8/8/24
+* Created a few columns from inner JSON data. 
  
