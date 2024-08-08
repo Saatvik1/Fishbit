@@ -6,7 +6,7 @@ A project dedicated to finding out more about myself through data from Fitbit, M
 * ~~Configure Fitbit app and authentication process, get keys and tokens~~
 * ~~Decide what data would be good to use~~
 * ~~Analyze Fitbit JSON structures for each endpoint~~
-* ~~Get all historical data required and save for analysis~~
+* ~~Get all historical data required and save for analysis in JSON files~~
 
 ## Data Wrangling
 * ~~Design a plan to transform data into a structure more suitable for analysis.~~
