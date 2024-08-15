@@ -12,6 +12,7 @@ A project dedicated to finding out more about myself through data from Fitbit, M
 * ~~Design a plan to transform data into a structure more suitable for analysis.~~
 * ~~Convert to tables~~
 * Rid tables of redundant data, and create any necessary changes
+* Combine sleep data from the two different Fitbit formats/sources.
 
 
 # Progress
@@ -28,5 +29,8 @@ A project dedicated to finding out more about myself through data from Fitbit, M
 * Created tables from JSON data
 
 ## 8/8/24
-* Created a few columns from inner JSON data. 
+* Created a few columns from inner JSON data.
+
+## 8/15/24
+* Completed wrangling for activity_df, almost done with sleep_df.
  
