@@ -11,8 +11,12 @@ A project dedicated to finding out more about myself through data from Fitbit, M
 ## Data Wrangling
 * ~~Design a plan to transform data into a structure more suitable for analysis.~~
 * ~~Convert to tables~~
-* Rid tables of redundant data, and create any necessary changes
-* Combine sleep data from the two different Fitbit formats/sources.
+* ~~Rid tables of redundant data, and create any necessary changes~~
+* ~~Combine sleep data from the two different Fitbit formats/sources.~~
+* ~~Convert all data to csv~~
+
+## Data Analysis / EDA
+* Formulate a plan, and outline North Star metrics.
 
 
 # Progress
@@ -34,3 +38,5 @@ A project dedicated to finding out more about myself through data from Fitbit, M
 ## 8/15/24
 * Completed wrangling for activity_df, almost done with sleep_df.
  
+## 8/22/24
+* Completed sleep_df wrangling, and consolidated date formats between the 2 tables. Converted all DFs to csv's.
