@@ -78,6 +78,7 @@ target/
 # Jupyter Notebook
 .ipynb_checkpoints
 raw_data
+wrangled_data
 
 # IPython
 profile_default/
