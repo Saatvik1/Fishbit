@@ -79,6 +79,7 @@ target/
 .ipynb_checkpoints
 raw_data
 wrangled_data
+data
 
 # IPython
 profile_default/
