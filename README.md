@@ -40,3 +40,6 @@ A project dedicated to finding out more about myself through data from Fitbit, M
  
 ## 8/22/24
 * Completed sleep_df wrangling, and consolidated date formats between the 2 tables. Converted all DFs to csv's.
+
+## 9/9/24
+* Edited project structure. Will implement requirements.txt and others once work resumes.
