@@ -7,6 +7,10 @@ A project dedicated to finding out more about myself through data from Fitbit, M
 * ~~Decide what data would be good to use~~
 * ~~Analyze Fitbit JSON structures for each endpoint~~
 * ~~Get all historical data required and save for analysis in JSON files~~
+* Get myfitnesspal data
+* Change google form data collection questions to include stress and specific sleep details
+* Get google form data
+* Create .py scripts based off notebooks, for general use
 
 ## Data Wrangling
 * ~~Design a plan to transform data into a structure more suitable for analysis.~~
@@ -14,9 +18,12 @@ A project dedicated to finding out more about myself through data from Fitbit, M
 * ~~Rid tables of redundant data, and create any necessary changes~~
 * ~~Combine sleep data from the two different Fitbit formats/sources.~~
 * ~~Convert all data to csv~~
+* Complete plan outlined in 4.0 notebook.
+* Create excel documentation of pre-storage data transformations and original raw data format...
 
 ## Data Analysis / EDA
 * Formulate a plan, and outline North Star metrics.
+* Formulate a plan for SQL and pandas analysis of data, for recreatability...
 
 
 # Progress
@@ -43,3 +50,6 @@ A project dedicated to finding out more about myself through data from Fitbit, M
 
 ## 9/9/24
 * Edited project structure. Will implement requirements.txt and others once work resumes.
+* Created documents for stakeholder requirements and pipeline
+* Edited raw_data json, improving code, made it more general, preparing it for script creation later on...
+* Created updated plan for data cleaning immmediately after data collection. This is NOT pre EDA cleaning, this is data storage cleaning... 
