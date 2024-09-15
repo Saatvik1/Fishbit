@@ -10,6 +10,7 @@ A project dedicated to finding out more about myself through data from Fitbit, M
 * ~~Get myfitnesspal data~~
 * ~~Change google form data collection questions to include stress and specific sleep details~~
 * ~~Get google form data~~
+* See if raw json collection is fixed in terms of not collecting any more duplicates
 * Create .py scripts based off notebooks, for general use
 
 ## Data Wrangling
@@ -66,3 +67,10 @@ A project dedicated to finding out more about myself through data from Fitbit, M
 
 ## 9/12/24
 * Created detailed doc on pre-dump cleaning and formatting
+
+## 9/13/24
+* Worked on wrangling NB
+
+## 9/15/24
+* Worked on wrangling NB, as well as fixing raw_json data collection, since it was collecting duplicates.
+* Updated table documentation
