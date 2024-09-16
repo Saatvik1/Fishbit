@@ -8,10 +8,10 @@ A project dedicated to finding out more about myself through data from Fitbit, M
 * ~~Analyze Fitbit JSON structures for each endpoint~~
 * ~~Get all historical data required and save for analysis in JSON files~~
 * ~~Get myfitnesspal data~~
-* ~~Change google form data collection questions to include stress and specific sleep details~~
+* ~~Change Google form data collection questions to include stress and specific sleep details~~
 * ~~Get google form data~~
-* ~~See if raw json collection is fixed in terms of not collecting any more duplicates~~
-* Create .py scripts based off notebooks, for general use
+* ~~See if raw JSON collection is fixed in terms of not collecting any more duplicates~~
+* Create .py scripts based on notebooks, for general use
 
 ## Data Wrangling
 * ~~Design a plan to transform data into a structure more suitable for analysis.~~
@@ -20,11 +20,11 @@ A project dedicated to finding out more about myself through data from Fitbit, M
 * ~~Combine sleep data from the two different Fitbit formats/sources.~~
 * ~~Convert all data to csv~~
 * ~~Complete plan outlined in 4.0 notebook.~~
-* ~~Create excel documentation of pre-storage data transformations and original raw data format...~~
+* ~~Create Excel documentation of pre-storage data transformations and the original raw data format...~~
 
 ## Data ETL
-* Create SQL schemas
-* Create dump scripts
+* ~~Create SQL schemas~~
+* ~~Create dump scripts~~
 
 ## Data Analysis / EDA
 * Formulate a plan, and outline North Star metrics.
@@ -63,14 +63,18 @@ A project dedicated to finding out more about myself through data from Fitbit, M
 * Downloaded MFP data
 
 ## 9/11/24
-* Created jupyter NB for sql dump, made basic outline
+* Created jupyter NB for SQL dump, made a basic outline
 
 ## 9/12/24
-* Created detailed doc on pre-dump cleaning and formatting
+* Created a detailed doc on pre-dump cleaning and formatting
 
 ## 9/13/24
 * Worked on wrangling NB
 
 ## 9/15/24
-* Completed wrangling NB and fixed raw_json data collection, since it was collecting duplicates.
+* Completed wrangling NB and fixed raw_json data collection, since it collected duplicates.
 * Updated table documentation
+
+## 9/16/24
+* Fixed some more issues with wrangling NB, that's all done now (should be lol, this is like the 4th time I've committed saying it's done)
+* Completed SQL dump, and created docs for SQL schema
