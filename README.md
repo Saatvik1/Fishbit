@@ -75,6 +75,10 @@ A project dedicated to finding out more about myself through data from Fitbit, M
 * Completed wrangling NB and fixed raw_json data collection, since it collected duplicates.
 * Updated table documentation
 
+## 11/14/24
+* After two months... I am back! I updated the data using the notebooks I made (all I had to do was run them! super easy!)
+* Started making a plan for EDA and what I want to explore out of this data
+
 ## 9/16/24
 * Fixed some more issues with wrangling NB, that's all done now (should be lol, this is like the 4th time I've committed saying it's done)
 * Completed SQL dump, and created docs for SQL schema
