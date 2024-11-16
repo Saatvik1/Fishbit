@@ -82,3 +82,7 @@ A project dedicated to finding out more about myself through data from Fitbit, M
 ## 11/14/24
 * After two months... I am back! I updated the data using the notebooks I made (all I had to do was run them! super easy!)
 * Started making a plan for EDA and what I want to explore out of this data
+
+## 11/16/24
+* Started EDA on activities, and explored basic correlations between features, got basic descriptive statistics for numeric features.
+
