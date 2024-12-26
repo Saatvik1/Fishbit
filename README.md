@@ -90,4 +90,7 @@ A project dedicated to finding out more about myself through data from Fitbit, M
 * Continued EDA on activities
 * Developed a technical outline plan for the project (sort of, needs to be fleshed out more)
 
+## 12/26/24
+* Finished EDA on activities
+* Started on Br, HRV, and tempSkin.
 
