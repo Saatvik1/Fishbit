@@ -27,7 +27,7 @@ A project dedicated to finding out more about myself through data from Fitbit, M
 * ~~Create dump scripts~~
 
 ## Data Analysis / EDA
-* Formulate a plan, and outline North Star metrics.
+* Formulate a plan, and outline North Star metrics (initial ones, to get a sense of my current situation, then perform stat analysis to select important metrics)
 * Formulate a plan for SQL and pandas analysis of data, for recreatability...
 
 
@@ -85,4 +85,9 @@ A project dedicated to finding out more about myself through data from Fitbit, M
 
 ## 11/16/24
 * Started EDA on activities, and explored basic correlations between features, got basic descriptive statistics for numeric features.
+
+## 11/25/24 
+* Continued EDA on activities
+* Developed a technical outline plan for the project (sort of, needs to be fleshed out more)
+
 
