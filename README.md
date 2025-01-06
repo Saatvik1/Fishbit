@@ -94,3 +94,10 @@ A project dedicated to finding out more about myself through data from Fitbit, M
 * Finished EDA on activities
 * Started on Br, HRV, and tempSkin.
 
+## 01/02/25
+* Finished eda on BR, HRV, tempSkin
+* started sleep analysis
+
+## 01/05/25
+* Finished very basic sleep analysis on the first dataframe
+
