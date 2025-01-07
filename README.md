@@ -21,12 +21,14 @@ A project dedicated to finding out more about myself through data from Fitbit, M
 * ~~Convert all data to csv~~
 * ~~Complete plan outlined in 4.0 notebook.~~
 * ~~Create Excel documentation of pre-storage data transformations and the original raw data format...~~
+* Make a script to extract the stress_score file from the takeout folder and perform a basic clean, then export it to the interim data folder.
 
 ## Data ETL
 * ~~Create SQL schemas~~
 * ~~Create dump scripts~~
 
 ## Data Analysis / EDA
+* Write a basic univariate analysis report. 
 * Formulate a plan, and outline North Star metrics (initial ones, to get a sense of my current situation, then perform stat analysis to select important metrics)
 * Formulate a plan for SQL and pandas analysis of data, for recreatability...
 
@@ -100,4 +102,7 @@ A project dedicated to finding out more about myself through data from Fitbit, M
 
 ## 01/05/25
 * Finished very basic sleep analysis on the first dataframe
+
+## 01/06/25
+* Finished basic univariate analysis on everything.
 
