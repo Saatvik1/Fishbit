@@ -29,8 +29,9 @@ A project dedicated to finding out more about myself through data from Fitbit, M
 
 ## Data Analysis / EDA
 * ~~Write a basic univariate analysis report.~~
-* Formulate a plan, and outline North Star metrics (initial ones, to get a sense of my current situation, then perform stat analysis to select important metrics)
-* Formulate a plan for SQL and pandas analysis of data, for recreatability...
+* ~~Formulate a plan and outline North Star metrics (initial ones, to get a sense of my current situation, then perform stat analysis to select important metrics)~~
+* Execute plan and continuously edit/add to it.
+* Formulate a plan for SQL and pandas data analysis, for recreatability...
 
 
 # Progress
@@ -107,3 +108,5 @@ A project dedicated to finding out more about myself through data from Fitbit, M
 * Finished basic univariate analysis on everything.
 * Wrote report and summarized things to study in future analysis.
 
+## 01/08/25
+* Created document for secondary analysis plan.  
