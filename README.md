@@ -108,5 +108,5 @@ A project dedicated to finding out more about myself through data from Fitbit, M
 * Finished basic univariate analysis on everything.
 * Wrote report and summarized things to study in future analysis.
 
-## 01/08/25
+## 01/07/25
 * Created document for secondary analysis plan.  
