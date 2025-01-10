@@ -109,4 +109,7 @@ A project dedicated to finding out more about myself through data from Fitbit, M
 * Wrote report and summarized things to study in future analysis.
 
 ## 01/07/25
-* Created document for secondary analysis plan.  
+* Created document for secondary analysis plan.
+
+## 01/09/25
+* Started preprocessing for secondary analysis
