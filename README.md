@@ -12,6 +12,7 @@ A project dedicated to finding out more about myself through data from Fitbit, M
 * ~~Get google form data~~
 * ~~See if raw JSON collection is fixed in terms of not collecting any more duplicates~~
 * Create .py scripts based on notebooks, for general use
+* Come up with solution to automate sleep score scraping
 
 ## Data Wrangling
 * ~~Design a plan to transform data into a structure more suitable for analysis.~~
@@ -30,7 +31,7 @@ A project dedicated to finding out more about myself through data from Fitbit, M
 ## Data Analysis / EDA
 * ~~Write a basic univariate analysis report.~~
 * ~~Formulate a plan and outline North Star metrics (initial ones, to get a sense of my current situation, then perform stat analysis to select important metrics)~~
-* Execute plan and continuously edit/add to it.
+* Execute plan and continuously edit/add to it. 
 * Formulate a plan for SQL and pandas data analysis, for recreatability...
 
 
@@ -113,3 +114,10 @@ A project dedicated to finding out more about myself through data from Fitbit, M
 
 ## 01/09/25
 * Started preprocessing for secondary analysis
+
+## 01/10/25
+* EDA2: finished pre-processing form and activities EDA task 1
+
+## 01/16/25
+* Finished activities tasks for secondary analysis
+* Started analyzing hrv, br, and skintemp but ran into large amounts of missing values.
